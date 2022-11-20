@@ -1,4 +1,10 @@
-## gilmarbcord
+## Hi 👋
+
+- 👨Olá, Meu nome é Gilmar Batista
+- 🏙Procuro Estagio (fornt-End e Back-End).
+- 🌴Estudando banco de dados.
+- 👨‍🎓Faculdade Uninove - Analise e Desevolvimento de Sistemas - Concluiu 12/2021 
+
 <div align="center">
 
   <a href="https://github.com/gilmarbcordeiro">
