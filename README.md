@@ -33,6 +33,6 @@
   ![Snake animation](https://github.com/gilmarbcordeiro/gilmarbcordeiro/blob/output/github-contribution-grid-snake.svg)
 
   a
- 
+ <link rel="stylesheet" href="style.css">
 </div>
 </div>
